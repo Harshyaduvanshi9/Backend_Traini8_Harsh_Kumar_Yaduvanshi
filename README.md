@@ -4,19 +4,6 @@ This is a Spring Boot project developed as an MVP for Traini8, which includes AP
 1. A POST API for creating and saving a new Training Center.
 2. A GET API for retrieving all saved Training Centers.
 
-## Table of Contents
-
-# Technologies Used
-# Prerequisites
-# Project Setup
-# Running the Application
-# APIs Overview
- POST: Create Training Center
- GET: Retrieve Training Centers
-# Validation
-# Exception Handling
-
-
 
 # Technologies Used
 Java 17
